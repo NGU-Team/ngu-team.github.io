@@ -362,7 +362,7 @@ url("../fonts/bootstrap-icons.woff?30af91bf14e37666a085fb8a161ff36d") format("wo
 .bi-chat-quote-fill::before { content: "\f254"; }
 .bi-chat-quote::before { content: "\f255"; }
 .bi-chat-right-dots-fill::before { content: "\f256"; }
-.bi-chat-right-dots::before { content: "\f257"; }
+.bi-chat-right-dots::before { content: "\F32F"; }
 .bi-chat-right-fill::before { content: "\f258"; }
 .bi-chat-right-quote-fill::before { content: "\f259"; }
 .bi-chat-right-quote::before { content: "\f25a"; }
@@ -769,9 +769,9 @@ url("../fonts/bootstrap-icons.woff?30af91bf14e37666a085fb8a161ff36d") format("wo
 .bi-gift-fill::before { content: "\f3eb"; }
 .bi-gift::before { content: "\f3ec"; }
 .bi-github::before { content: "\f3ed"; }
-.bi-globe::before { content: "\f3ee"; }
+.bi-globe::before { content: "\F411"; }
 .bi-globe2::before { content: "\f3ef"; }
-.bi-google::before { content: "\f3f0"; }
+.bi-google::before { content: "\F32F"; }
 .bi-graph-down::before { content: "\f3f1"; }
 .bi-graph-up::before { content: "\f3f2"; }
 .bi-grid-1x2-fill::before { content: "\f3f3"; }
@@ -894,7 +894,7 @@ url("../fonts/bootstrap-icons.woff?30af91bf14e37666a085fb8a161ff36d") format("wo
 .bi-lightbulb-fill::before { content: "\f468"; }
 .bi-lightbulb-off-fill::before { content: "\f469"; }
 .bi-lightbulb-off::before { content: "\f46a"; }
-.bi-lightbulb::before { content: "\f46b"; }
+.bi-lightbulb::before { content: "\f3ee"; }
 .bi-lightning-charge-fill::before { content: "\f46c"; }
 .bi-lightning-charge::before { content: "\f46d"; }
 .bi-lightning-fill::before { content: "\f46e"; }
@@ -1018,7 +1018,7 @@ url("../fonts/bootstrap-icons.woff?30af91bf14e37666a085fb8a161ff36d") format("wo
 .bi-phone-landscape::before { content: "\f4e4"; }
 .bi-phone-vibrate-fill::before { content: "\f4e5"; }
 .bi-phone-vibrate::before { content: "\f4e6"; }
-.bi-phone::before { content: "\f4e7"; }
+.bi-phone::before { content: "\F620"; }
 .bi-pie-chart-fill::before { content: "\f4e8"; }
 .bi-pie-chart::before { content: "\f4e9"; }
 .bi-pin-angle-fill::before { content: "\f4ea"; }
